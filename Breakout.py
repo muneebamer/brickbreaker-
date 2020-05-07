@@ -1,5 +1,3 @@
-# Name: Muneeb Bin Amer  Roll No: 21-10579 #
-# Group Member: Maham Jamil  Roll No: 21-10053 #
 
 import random
 from tkinter import *
